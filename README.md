@@ -2,7 +2,7 @@
 
 After providing Steve with a workbook to analyze stocks his parents were interested in investing in, he now would like to explore a wider range of stocks for his parents to invest in. 
 
-##**Overview**
+## **Overview**
 
   The purpose of conducting this analysis is to determine how Excel's Visual Basic Application can be used more efficiently to analyze multiple sets of data.
 
