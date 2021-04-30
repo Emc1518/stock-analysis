@@ -1,6 +1,6 @@
 # **stock-analysis**
 
-Steve would like to know where to invest
+After providing Steve with a workbook to analyze stocks his parents were interested in investing in, he now would like to explore a wider range of stocks for his parents to invest in. 
 
 ##**Overview**
 
