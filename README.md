@@ -9,7 +9,9 @@
 
 ## **Results**
 
+https://github.com/Emc1518/stock-analysis/blob/68d3369767608bd15cdfa8ebafbe8fe280d60b4e/VBA_Challenge_Code
 
+In refactoring the code I was able to remove the `AND` operators from the 'For` loop as well as remove variables that were already included in another place.
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/81889167/116769678-d6339900-aa0b-11eb-9b1a-886a653a5e3d.png)
 
